@@ -4,7 +4,7 @@
  * Authors: Thomas Given-Wilson
  * Version: 0.1.1
  * Licence: 
- * Notes: https://hal.inria.fr/hal-01571226
+ * Notes: https://ieeexplore.ieee.org/document/8455937
  * */
 
 
@@ -52,7 +52,7 @@
 
 
 /* Struct for Apollonian cell encoder
- * See https://hal.inria.fr/hal-01571226 for theory.
+ * See https://ieeexplore.ieee.org/document/8455937 for theory.
  * Apollonian cell encoders must know:
  * the size of the message space (msize)
  * the size of the key space (ksize)
